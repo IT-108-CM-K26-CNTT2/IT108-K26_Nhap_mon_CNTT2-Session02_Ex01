@@ -1,11 +1,7 @@
-class nhap_thong_tin:
-    def __init__(self,):
-        self.firstname = fname
-        self.lastname = lname
+Phần 1 :  
+	 -Lỗi 1 : Lưu ổ đĩa C giúp máy tính truy cập file nhanh nhất chưa đúng máy tính mở nhanh hay chậm dựa trên phần cứng 
+	-lỗi 2 :đặt tên file thư mục có khoảng trắng
+	-lỗi 3 :lưu tại thư mục 
+D:\hcm_k26_cntt2\session_02\bai1.py.
+D:\hcm_k26_cntt2\session_02\bai2.py.
 
-    def printname(self):
-        print(self.firstname, self.lastname)
-
-
-x = nhap_thong_tin()
-x.printname()
